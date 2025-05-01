@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Mac OS
+.DS_Store
+
+# VS Code / PyCharm settings
+.vscode/
+.idea/
+
+# Output files
+*.log
+*.csv
+*.tsv
+*.json
+*.sqlite
+*.db
+
+# Datasets
+data/
+!data/README.md  # keep README if you want to describe data structure
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.model
+
+# Cache & build
+*.egg-info/
+dist/
+build/
+.cache/
