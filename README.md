@@ -93,7 +93,6 @@ The following Python libraries are required:
 * `numpy`
 * `scikit-learn` 
 * `scipy` 
-* `joblib`
 * `matplotlib`
 * `seaborn` 
 * `tqdm` 
